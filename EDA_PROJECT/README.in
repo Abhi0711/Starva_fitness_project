@@ -1,1 +1,26 @@
+# Strava Fitness EDA Project
 
+This project performs exploratory data analysis on Strava fitness activity data to understand workout patterns, performance trends, and training consistency. 
+The analysis covers activities such as running, cycling, and walking using metrics like distance, duration, pace, speed, elevation gain, calories burned, and activity frequency.
+The project includes data cleaning, transformation, statistical analysis, and visualization to identify weekly and monthly trends, preferred activity types, personal performance changes, and overall fitness progress.
+
+## Key Objectives
+
+* Analyze total activities, distance, and workout duration
+* Compare running, cycling, and walking performance
+* Study pace, speed, calories, and elevation trends
+* Identify workout consistency and activity frequency
+* Detect performance improvements and personal patterns
+* Create meaningful charts and visual insights
+
+## Tools Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Jupyter Notebook
+
+## Outcome
+
+The analysis provides a clear overview of fitness habits and performance, helping users understand their training behavior, monitor progress, and make informed decisions to improve consistency and overall fitness.
